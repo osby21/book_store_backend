@@ -1,6 +1,6 @@
 # My-SuperMarket-Backend
 
-An online shopping store backend built with Node Js using the Express.
+An online book shopping store backend built with Node Js using the Express.
 
 ## Technologies Used
 
@@ -13,13 +13,13 @@ An online shopping store backend built with Node Js using the Express.
 1. Clone the repository:
 
     ```sh
-    git clone https://github.com/osby21/ec_backend.git
+    git clone https://github.com/osby21/book_store_backend.git
     ```
 
 2. Install dependencies:
 
     ```sh
-    cd ec_backend
+    cd book_store_backend
     npm install
     ```
 
